@@ -8,9 +8,9 @@ I'm currently taking Harvard's CS50 and I will say it is the best course I've ev
 I'm planning on making an ecommerce website in the future for my CS50 final project.
 
 ### My VSCode Setup:
-One Dark Pro
-Material Icons
-Fira Code
+One Dark Pro     
+Material Icons    
+Fira Code    
 
 ### The languages I know:
 Scratch
