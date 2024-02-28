@@ -13,10 +13,10 @@ Material Icons
 Fira Code    
 
 ### The languages I know:
-Scratch
-HTML
-CSS
-Javascript
-Python
-C
-SQL
+Scratch     
+HTML   
+CSS   
+Javascript   
+Python   
+C   
+SQL   
